@@ -4,7 +4,7 @@ $(function () {
     var scrollMargin = 200
 
     var sectionsPositions = {}
-    $('#nav a').each(function () {
+    $('#nav .scrolllink').each(function () {
         var link = $(this)
         var id = link.attr('href')
         var section = $(id)
