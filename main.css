@@ -25,7 +25,7 @@ a {
 
 .logo {
     text-align: center;
-    height: 150px;
+    height: 250px;
     padding: 50px;
 }
 
@@ -35,7 +35,7 @@ a {
 
 #nav {
     position: absolute;
-    top: 250px;
+    top: 300px;
     left: 0;
     width: 100%;
     color: #ecdcdc;
@@ -80,7 +80,7 @@ a {
 
 #container {
     position: absolute;
-    top: 318px;
+    top: 367px;
     left: 0;
     width: 100%;
     background: rgba(51, 0, 0, .75);
@@ -138,6 +138,8 @@ a {
 
 #intro img {
     float: right;
+    height: 250px;
+    width: auto;
 }
 
 .section b {
