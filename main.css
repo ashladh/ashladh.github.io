@@ -35,7 +35,7 @@ a {
 
 #nav {
     position: absolute;
-    top: 300px;
+    top: 350px;
     left: 0;
     width: 100%;
     color: #ecdcdc;
@@ -80,7 +80,7 @@ a {
 
 #container {
     position: absolute;
-    top: 367px;
+    top: 417px;
     left: 0;
     width: 100%;
     background: rgba(51, 0, 0, .75);
