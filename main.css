@@ -101,6 +101,7 @@ a {
 .section {
     line-height: 1.5;
     margin-bottom: 200px;
+    clear: both;
 }
 
 .section h1 {
@@ -145,4 +146,67 @@ a {
 .section b {
     font-weight: 900;
     color: #cb8686;
+}
+
+.recruit-class {
+    float: left;
+    border: 2px solid #cb8686;
+    border-radius: 25px;
+    padding: .9em;
+    margin: .5em;
+    width: 240px;
+    height: 180px;
+    text-align: center;
+}
+
+.class-icon {
+    display: inline-block;
+    padding: 0 0.5em 1em -1em;
+    vertical-align: middle;
+}
+
+.spec-icon {
+    vertical-align: middle;
+    height: 16px;
+    width: 16px;
+}
+
+.status-open {
+    color: green;
+}
+
+.status-closed {
+    color: red;
+}
+
+.druid-title {
+    color: #FF7D0A;
+}
+
+.hunter-title {
+    color: #ABD473;
+}
+
+.mage-title {
+    color: #69CCF0;
+}
+
+.priest-title {
+    color: #FFFFFF;
+}
+
+.rogue-title {
+    color: #FFF569;
+}
+
+.shaman-title {
+    color: #0070DE;
+}
+
+.warlock-title {
+    color: #9482C9;
+}
+
+.warrior-title {
+    color: #C79C6E;
 }
